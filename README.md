@@ -1,7 +1,8 @@
 # USING DATA SCIENCE TO ADDRESS PRICE INCONSISTENCY IN MALAYSIAN PROPERTY MARKET
 
-Data sourced from Kaggle
-https://www.kaggle.com/datasets/lyhatt/house-prices-in-malaysia-2025
+Data sourced from:
+Kaggle - https://www.kaggle.com/datasets/lyhatt/house-prices-in-malaysia-2025
+BNM OPR Decision's - https://www.bnm.gov.my/monetary-stability/opr-decisions
 
 Tools: R
 
