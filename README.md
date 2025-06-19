@@ -5,5 +5,5 @@ https://www.kaggle.com/datasets/lyhatt/house-prices-in-malaysia-2025
 
 Tools: R
 
+![USING DATA SCIENCE TO IDENTIFY](https://github.com/user-attachments/assets/8ff72188-461d-4406-9be8-738a5509bb75)
 
-[AA1 - Wan Nurul Adibah_24062857.pdf](https://github.com/user-attachments/files/20822169/AA1.-.Wan.Nurul.Adibah_24062857.pdf)
